@@ -27,8 +27,7 @@ Must begin with analysing the data of head brain dataset then dive into Linear R
 
 The data below is an example of properly formatted data.
 
-![4](https://user-images.githubusercontent.com/106439762/178805409-2f3975f1-ddcc-4de1-8331-813984995b08.PNG)
-
+![l](https://user-images.githubusercontent.com/106439762/179294914-47af5114-c34f-435d-93b7-a13d772eb6e2.PNG)
 
    
 
