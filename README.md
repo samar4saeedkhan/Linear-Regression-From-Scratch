@@ -33,8 +33,10 @@ The data below is an example of properly formatted data.
 
 
 ## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Screenshots
+    
+![download](https://user-images.githubusercontent.com/106439762/179295803-88bbdfcb-e558-489f-82ac-2e5ec7838a58.png)
 
-![Dashboard 1 (1)](https://user-images.githubusercontent.com/106439762/178805795-fe41533c-e13c-4a04-a6d4-85ee5851b343.png)
+
 
 
 ## <img src=https://user-images.githubusercontent.com/106439762/178809088-a2d780ad-94f5-4a58-9203-7716d4b2cbf4.gif width="48" height="48"> About Me
