@@ -1,30 +1,12 @@
 <p align="center"><img src=https://user-images.githubusercontent.com/106439762/179285953-f6440812-70b7-49e0-a30c-212227939286.gif width="400" height="200" >
 
-# <img src=https://user-images.githubusercontent.com/106439762/178425923-6c5803df-7469-4f8c-8052-80fb0c7e220d.gif width="48" height="48" >  **Machine Learning- Linear Regression**
+# <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif width="48" height="48" >  **Machine Learning- Linear Regression**
 
 
 This tutorial is for absolute **beginners** in **Machine Learning-Linear Regression** algorithm, for those who want to review/practice the fundamentals of machine learning and how to build them from scratch. In this repository I give the brief introduction about Linear Regression and also explain the Linear Regression code from scratch using **sklearn library** in Python.
 <br>
 <br>
 <p align="center"><a href="https://www.tableau.com/"><img src=https://forthebadge.com/images/badges/built-with-love.svg><img src=https://user-images.githubusercontent.com/106439762/178422441-0ad26a02-d79f-4142-937f-461dcea6d08e.svg><img src=https://user-images.githubusercontent.com/106439762/178422909-f51e0b4a-6358-4488-926f-32fd59e4ca54.svg></a></p>
-
-
-##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
-   
-    o	KPI’s :-
-                o Room Type 
-                o Neighbourhood 
-                o Year of host since
-    
-    o	Top Regions based on Bed’s availability 
-    
-    o	Top Regions based on User Rating 
-    
-    o	Average prices based on Pin code 
-    
-    o	Year Wise Average prices 
-
-
 
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
