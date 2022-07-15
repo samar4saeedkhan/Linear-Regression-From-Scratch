@@ -21,7 +21,7 @@ This tutorial is for absolute **beginners** in **Machine Learning-Linear Regress
 
 Must begin with analysing the data of head brain dataset then dive into Linear Regression:
 
-    1.Read Python makrdowns carefully.
+    1.Read python notebook makrdowns carefully.
 
     2.Each column of dataset holds the value for a particular category.
 
