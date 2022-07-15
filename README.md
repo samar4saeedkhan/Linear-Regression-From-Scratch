@@ -9,8 +9,9 @@ This tutorial is for absolute **beginners** in **Machine Learning-Linear Regress
 
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
-![tableau-public](https://user-images.githubusercontent.com/106439762/178797623-924f63c6-f35a-4da1-bea6-7a3f647c18af.svg)
-![tableau-dashboard](https://user-images.githubusercontent.com/106439762/178797660-533dac49-4eef-42c3-b7bc-4fc935192582.svg)
+    
+![basic-python](https://user-images.githubusercontent.com/106439762/179292327-57c81424-9d1d-4df8-9113-d6441360d021.svg)
+![basic-maths](https://user-images.githubusercontent.com/106439762/179292330-89fd3336-fc25-4608-bbb2-96c3a443dafd.svg)
 
 
 
