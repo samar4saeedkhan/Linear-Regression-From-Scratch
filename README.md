@@ -6,7 +6,6 @@
 This tutorial is for absolute **beginners** in **Machine Learning-Linear Regression** algorithm, for those who want to review/practice the fundamentals of machine learning and how to build them from scratch. In this repository I give the brief introduction about Linear Regression and also explain the Linear Regression code from scratch using **sklearn library** in Python.
 <br>
 <br>
-<p align="center"><a href="https://www.tableau.com/"><img src=https://forthebadge.com/images/badges/built-with-love.svg><img src=https://user-images.githubusercontent.com/106439762/178422441-0ad26a02-d79f-4142-937f-461dcea6d08e.svg><img src=https://user-images.githubusercontent.com/106439762/178422909-f51e0b4a-6358-4488-926f-32fd59e4ca54.svg></a></p>
 
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
