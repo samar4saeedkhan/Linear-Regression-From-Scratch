@@ -1,4 +1,4 @@
-# <img src=https://user-images.githubusercontent.com/106439762/178425923-6c5803df-7469-4f8c-8052-80fb0c7e220d.gif width="48" height="48" >  **Linear Regression**
+# <img src=https://user-images.githubusercontent.com/106439762/178425923-6c5803df-7469-4f8c-8052-80fb0c7e220d.gif width="48" height="48" >  **Machine Learning- Linear Regression**
 
 Airbnb is an **American company** that operates an online marketplace for lodging, primarily homestays for vacation rentals,and tourism activities. In this repository I analyses the data from different aspects and present my analysis in dashboard which is made by using **tableau public**.
 <br>
